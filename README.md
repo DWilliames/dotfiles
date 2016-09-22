@@ -1,4 +1,7 @@
-# dotfiles
+# Dotfiles
+My Personal dotfiles.
+This is a **Work in Progress** and very much in its infancy. 
+Feel free to use if it adds any value to you.
 
 Inspiration from [Kevin Smets' Gist](https://gist.github.com/kevin-smets/8568070) and [Sam Soffes' Dotfiles](https://github.com/soffes/dotfiles)
 
