@@ -19,6 +19,7 @@ Go and grab a 🍺 or ☕️ while you wait for everything to install
 3. Download and install the font, [Meslo](https://github.com/powerline/fonts/blob/master/Meslo/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.otf?raw=true)
 
 Set the font and color settings in iTerm's preferences: `iTerm -> preferences -> profiles`
+
 1. `colors ->` *Select the Preset from the bottom right dropdown list*
 2. `text ->` *Select 'Change font' and select **Meslo***
 3. `keys ->` *Add the following key bindings to enable word jumpings (Click '+')*
