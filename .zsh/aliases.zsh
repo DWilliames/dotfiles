@@ -12,6 +12,7 @@ alias gp='git push'
 alias gu='git up'
 alias ga='git add'
 alias gc='git commit'
+alias go='git checkout'
 
 # Editor
 alias a='atom .'
