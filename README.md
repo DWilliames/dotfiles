@@ -37,7 +37,7 @@ Set the font and color settings in iTerm's preferences: `iTerm -> preferences ->
   # Option + left
   Keyboard Shortcut: ⌥←
   Action: Send Escape Sequence
-  Esc+:
+  Esc+: b
   ```
 
 
