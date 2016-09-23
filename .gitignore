@@ -7,6 +7,3 @@
 !.zshrc
 !Scripts/
 !.zsh/
-
-# ...even if they are in subdirectories
-!*/
