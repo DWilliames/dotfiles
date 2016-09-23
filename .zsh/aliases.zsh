@@ -35,3 +35,5 @@ alias brewu='brew update  && brew upgrade --all && brew cleanup && brew prune &&
 alias ae='atom ~/.zsh/aliases.zsh' #alias edit
 alias ar='source ~/.zsh/aliases.zsh'  #alias reload
 alias gar="killall -HUP -u \"$USER\" zsh"  #global alias reload
+
+alias zshconfig="atom ~/.zshrc"
