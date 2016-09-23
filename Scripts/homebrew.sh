@@ -13,7 +13,6 @@ FORMULAS=(
     hugo
     node
     mongodb
-    zsh-syntax-highlighting
 )
 brew install ${FORMULAS[@]}
 
