@@ -1,6 +1,6 @@
 # Dotfiles
 My Personal dotfiles.
-This is a **Work in Progress** and very much in its infancy. 
+This is a **Work in Progress** and very much in its infancy.
 Feel free to use if it adds any value to you.
 
 Inspiration from [Kevin Smets' Gist](https://gist.github.com/kevin-smets/8568070) and [Sam Soffes' Dotfiles](https://github.com/soffes/dotfiles)
@@ -18,8 +18,8 @@ Go and grab a 🍺 or ☕️ while you wait for everything to install
 
 ## iTerm2
 1. Download and install [iTerm2](http://www.iterm2.com/downloads.html)
-2. Download the iTerm colour theme, [One Dark Atom](https://raw.githubusercontent.com/nathanbuchar/atom-one-dark-terminal/master/scheme/iterm/One%20Dark.itermcolors) (save anywhere and open to install)
-3. Download and install the font, [Meslo](https://github.com/powerline/fonts/blob/master/Meslo/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.otf?raw=true)
+2. Download and install the font, [Meslo](https://github.com/powerline/fonts/blob/master/Meslo/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.otf?raw=true)
+3. Install the iTerm colour theme, `Davids-iTerm-Theme.itermcolors` by opening the file
 
 Set the font and color settings in iTerm's preferences: `iTerm -> preferences -> profiles`
 

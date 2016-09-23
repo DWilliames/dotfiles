@@ -2,7 +2,7 @@ echo "Changing shell…"
 chsh -s /bin/zsh
 
 echo "Hiding files…"
-SetFile -a "V" ~/README.md ~/LICENSE ~/Scripts
+SetFile -a "V" ~/README.md ~/LICENSE ~/Scripts ~/Davids-iTerm-Theme.itermcolors
 
 echo "Installing 'Oh My Zsh'…"
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
