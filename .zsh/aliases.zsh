@@ -13,6 +13,10 @@ alias gu='git up'
 alias ga='git add'
 alias gc='git commit'
 alias go='git checkout'
+alias gl='git log'
+alias gf='git fetch origin'
+alias gm='git merge FETCH_HEAD'
+alias pull='git pull'
 
 # Editor
 alias a='atom .'
@@ -36,4 +40,4 @@ alias ae='atom ~/.zsh/aliases.zsh' #alias edit
 alias ar='source ~/.zsh/aliases.zsh'  #alias reload
 alias gar="killall -HUP -u \"$USER\" zsh"  #global alias reload
 
-alias zshconfig="atom ~/.zshrc"
+alias zshrc="atom ~/.zshrc"
