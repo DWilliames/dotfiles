@@ -13,6 +13,7 @@ FORMULAS=(
     hugo
     node
     mongodb
+    tree
 )
 brew install ${FORMULAS[@]}
 
