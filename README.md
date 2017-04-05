@@ -19,13 +19,14 @@ Go and grab a 🍺 or ☕️ while you wait for everything to install
 ## iTerm2
 1. Download and install [iTerm2](http://www.iterm2.com/downloads.html)
 2. Download and install the font, [Meslo](https://github.com/powerline/fonts/blob/master/Meslo/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.otf?raw=true)
-3. Install the iTerm colour theme, `Davids-iTerm-Theme.itermcolors` by opening the file
+3. Install the iTerm colour theme, by opening the file `~/theme.itermcolors`
 
 Set the font and color settings in iTerm's preferences: `iTerm -> preferences -> profiles`
 
 1. `colors ->` *Select the Preset from the bottom right dropdown list*
 2. `text ->` *Select 'Change font' and select 'Meslo'*
 3. `keys ->` *Add the following key bindings to enable word jumpings (Click '+')*
+
   ``` bash
   # Option + Right
   Keyboard Shortcut: ⌥→
@@ -39,6 +40,5 @@ Set the font and color settings in iTerm's preferences: `iTerm -> preferences ->
   Action: Send Escape Sequence
   Esc+: b
   ```
-
 
 **Restart iTerm for changes to take effect**
