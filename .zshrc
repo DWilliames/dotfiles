@@ -5,7 +5,8 @@ DEFAULT_USER=`whoami`
 
 export ZSH=/Users/`whoami`/.oh-my-zsh
 
-ZSH_THEME="agnoster"
+# ZSH_THEME="agnoster"
+ZSH_THEME="minimal-git"
 
 HYPHEN_INSENSITIVE="true"
 DISABLE_AUTO_TITLE="true"
