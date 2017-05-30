@@ -27,6 +27,6 @@ open ~/theme.itermcolors
 # Installing Zsh would've moved the .zshrc file from the repo...
 # override the new one with the original
 echo "Overriding .zshrc file"
-mv ~/.zshrc.orig ~/.zshrc
+mv ~/.zshrc.pre-oh-my-zsh ~/.zshrc
 
 echo "Done."

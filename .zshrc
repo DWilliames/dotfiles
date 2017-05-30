@@ -19,3 +19,17 @@ source $ZSH/oh-my-zsh.sh
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ~/.zsh/aliases.zsh
+
+
+# Pretty print curl – http://benw.me/posts/colourized-pretty-printed-json-with-curl/
+function jcurl() {
+    curl "$@" | json | pygmentize -l json
+}
+export -f jcurl
+
+# Yarn
+export PATH="$PATH:`yarn global bin`"
+
+
+export NVM_DIR="/Users/dwilliames/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm

@@ -40,7 +40,9 @@ alias ae='atom ~/.zsh/aliases.zsh' #alias edit
 alias ar='source ~/.zsh/aliases.zsh'  #alias reload
 alias gar="killall -HUP -u \"$USER\" zsh"  #global alias reload
 
+alias zshconfig="atom ~/.zshrc"
 alias zshrc="atom ~/.zshrc"
 
-# Sketch plugin development
+
+# Sketch Plugin development
 alias sketch-plugin-observe='fswatch *.sketchplugin | (while read; do cp -av *.sketchplugin ~/Library/Application\ Support/com.bohemiancoding.sketch3/Plugins | echo "> Copied: $(date +%H:%M:%S)"; done)'
